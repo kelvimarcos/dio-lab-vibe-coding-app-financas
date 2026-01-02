@@ -1,83 +1,87 @@
-# 💸 App de Finanças Pessoais do Kelvison Marcos
+💸 App de Finanças Pessoais – Kelvison Marcos
+Este projeto foi desenvolvido como parte de um Desafio de Projeto da DIO (Vibe Coding) utilizando o Lovable e o Copilot Web.
+A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
 
-Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
-
----
-
-## 📝 PRD Refinado no Copilot Web
-
-# PRD – App de Organização Financeira com Conversa Natural
-
-## 1. Visão Geral
+📝 PRD Refinado no Copilot Web
+📌 Visão Geral
 Desenvolver um aplicativo de finanças pessoais baseado em interação conversacional em linguagem natural.
 O objetivo é simplificar o controle financeiro, tornando-o intuitivo, acessível e inclusivo, eliminando a necessidade de planilhas ou formulários complexos.
 
-## 2. Problema a Resolver
+❗ Problema a Resolver
 Usuários abandonam apps financeiros por serem complicados, pouco personalizados e exigirem entradas manuais.
+
 A solução proposta é um assistente financeiro conversacional, que entende o usuário e oferece recomendações automáticas adaptadas ao seu perfil.
-O diferencial será o uso de Design Universal, garantindo que o app proporcione uma boa experiência para o máximo de usuários possíveis, independentemente de idade, nível de alfabetização digital ou limitações físicas/cognitivas.
 
-## 3. Público-Alvo
-- Pessoas que desejam organizar suas finanças de forma prática e sem complicações.
-- Especialmente iniciantes que não têm familiaridade com aplicativos financeiros tradicionais.
-- Usuários diversos, incluindo aqueles com necessidades específicas de acessibilidade.
+O diferencial será o uso de Design Universal, garantindo boa experiência para o máximo de usuários possíveis, independentemente de idade, nível de alfabetização digital ou limitações físicas/cognitivas.
 
-## 4. Funcionalidades-Chave
-1. Registro de gastos via chat: O usuário descreve seus gastos em linguagem natural (ex.: “gastei R$ 30 no mercado”).
-2. Classificação automática de transações: O app interpreta e categoriza os gastos com base no texto.
-3. Metas financeiras: Criação e acompanhamento de metas (ex.: “economizar R$ 500 até o fim do mês”).
-4. Agente Financeiro inteligente: Sugestões personalizadas de economia e hábitos financeiros.
-5. Relatórios simples e visuais: Gráficos e dashboards adaptados ao estilo do usuário.
-6. Acessibilidade garantida pelo Design Universal: Interface clara, compatibilidade com leitores de tela, comandos por voz e feedback multimodal (visual e auditivo).
+👥 Público-Alvo
+Pessoas que desejam organizar suas finanças de forma prática e sem complicações.
 
-## 5. Princípios de Design Universal
-O aplicativo será construído para ser inclusivo e acessível, garantindo usabilidade para diferentes perfis de usuários.
-Diretrizes principais:
-- Interface clara e legível
-- Navegação simples e sem sobrecarga
-- Compatibilidade com leitores de tela e comandos por voz
-- Feedbacks visuais e auditivos para facilitar o uso
-- Experiência consistente para o maior número possível de pessoas
+Iniciantes sem familiaridade com aplicativos financeiros tradicionais.
 
-## 6. Entregável da IA (MVP)
-Plano inicial contendo:
-- Principais telas: chat, metas, relatórios
-- Recursos técnicos: NLP (Processamento de Linguagem Natural), categorização automática, motor de recomendações
-- Validação inicial: testes com usuários reais para ajustes rápidos
-- Tom educativo e acessível: linguagem clara em português
-- Aplicação de Design Universal desde o protótipo
+Usuários diversos, incluindo aqueles com necessidades específicas de acessibilidade.
 
+⚙️ Funcionalidades-Chave
+Registro de gastos via chat (ex.: “gastei R$ 30 no mercado”).
 
+Classificação automática de transações.
 
+Criação e acompanhamento de metas financeiras.
 
-<img width="1335" height="852" alt="image" src="https://github.com/user-attachments/assets/19f77855-63e2-464b-806e-80fb13d8b850" />
-<img width="1339" height="857" alt="image" src="https://github.com/user-attachments/assets/c0540743-cd92-47ef-aa74-305bab4248ea" />
-<img width="1339" height="872" alt="image" src="https://github.com/user-attachments/assets/480e9d79-db63-4e6d-b161-bff3a3d520ab" />
+Agente financeiro inteligente com sugestões personalizadas.
 
+Relatórios simples e visuais (gráficos e dashboards).
 
+Acessibilidade garantida pelo Design Universal (interface clara, leitores de tela, comandos por voz, feedback multimodal).
 
-##Resumo do app
+♿ Princípios de Design Universal
+Interface clara e legível.
 
+Navegação simples e sem sobrecarga.
 
-O FinançaFácil é um aplicativo de gestão financeira pessoal
-## Principais funcionalidades
+Compatibilidade com leitores de tela e comandos por voz.
 
--Acompanhamento visual: cada meta mostra progresso em porcentagem, valores já acumulados e quanto ainda falta.
--Categorias organizadas: metas podem ser classificadas em áreas como Poupança ou Lazer.
--Controle de prazos: o app indica quando o prazo de uma meta foi vencido, ajudando no planejamento.
--Resumo geral: além das metas, há uma aba de resumo para visualizar a situação financeira completa.
--Interatividade: inclui opções como chat integrado e botão para adicionar novas metas rapidamente.
+Feedbacks visuais e auditivos.
 
+Experiência consistente para o maior número possível de pessoas.
 
-## Objetivo do app
--O FinançaFácil busca tornar o planejamento financeiro simples e acessível, permitindo que o usuário tenha clareza sobre seus objetivos e disciplina para alcançá-los.
+🚀 Entregável da IA (MVP)
+Principais telas: chat, metas, relatórios.
 
+Recursos técnicos: NLP, categorização automática, motor de recomendações.
 
-## O que funcionou bem?
--O refinamento prévio do PRD feito com o Copilot foi extremamente útil, já que os créditos do Lovable se esgotaram em apenas três interações.
+Validação inicial: testes com usuários reais.
 
-## O que não saiu como esperado?
--Eu imaginava poder ter mais interações gratuitas com o Lovable, mas mesmo as poucas disponíveis já trouxeram bastante aprendizado sobre Vibe Coding.
+Linguagem clara e acessível em português.
 
-## O que aprendi sobre conversar com IAs?
--Percebi que é muito parecido com conversar com uma pessoa: quanto mais detalhes e clareza você oferece, melhor é a qualidade da interação.
+Aplicação de Design Universal desde o protótipo.
+
+📷 Protótipos
+<img width="1335" height="852" alt="Tela 1" src="https://github.com/user-attachments/assets/19f77855-63e2-464b-806e-80fb13d8b850" />
+<img width="1339" height="857" alt="Tela 2" src="https://github.com/user-attachments/assets/c0540743-cd92-47ef-aa74-305bab4248ea" />
+<img width="1339" height="872" alt="Tela 3" src="https://github.com/user-attachments/assets/480e9d79-db63-4e6d-b161-bff3a3d520ab" />
+
+📊 Resumo do App – FinançaFácil
+🔑 Principais Funcionalidades
+Acompanhamento visual das metas (progresso em porcentagem, valores acumulados e restantes).
+
+Categorias organizadas (ex.: Poupança, Lazer).
+
+Controle de prazos (alerta de metas vencidas).
+
+Resumo geral da situação financeira.
+
+Interatividade: chat integrado e botão para adicionar novas metas.
+
+🎯 Objetivo
+Tornar o planejamento financeiro simples e acessível, permitindo que o usuário tenha clareza sobre seus objetivos e disciplina para alcançá-los.
+
+📌 Reflexões do Projeto
+✅ O que funcionou bem
+O refinamento prévio do PRD feito com o Copilot foi extremamente útil, já que os créditos do Lovable se esgotaram em apenas três interações.
+
+⚠️ O que não saiu como esperado
+Eu imaginava poder ter mais interações gratuitas com o Lovable, mas mesmo as poucas disponíveis já trouxeram bastante aprendizado sobre Vibe Coding.
+
+💡 O que aprendi sobre conversar com IAs
+Percebi que é muito parecido com conversar com uma pessoa: quanto mais detalhes e clareza você oferece, melhor é a qualidade da interação.
