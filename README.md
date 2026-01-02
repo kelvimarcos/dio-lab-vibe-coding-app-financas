@@ -9,19 +9,20 @@ A proposta é criar um aplicativo de organização financeira pessoal baseado em
 <br>
 <br>
 
-## 📌 Visão Geral
+## 📌 Visão Geral <br>
 O FinançaFácil é um aplicativo de finanças pessoais que utiliza conversa natural para ajudar usuários a registrar gastos, definir metas e receber recomendações inteligentes.
 A ideia é eliminar a complexidade de planilhas e formulários, oferecendo uma experiência intuitiva e adaptada a diferentes perfis de usuários. <br>
 
-##❗ Problema a Resolver
-Muitos usuários abandonam apps financeiros por serem complicados e pouco personalizados.
+##❗ Problema a Resolver <br>
+-Muitos usuários abandonam apps financeiros por serem complicados e pouco personalizados.
 <br>
-A entrada manual de dados é trabalhosa e desmotivadora.
+-A entrada manual de dados é trabalhosa e desmotivadora.
 <br>
-Falta de acessibilidade em grande parte dos aplicativos disponíveis.
+-Falta de acessibilidade em grande parte dos aplicativos disponíveis.
 <br>
-Solução proposta:  
-Um assistente financeiro conversacional, capaz de interpretar linguagem natural, categorizar transações automaticamente e sugerir hábitos financeiros saudáveis.
+
+## 💡 Solução proposta <br>
+-Um assistente financeiro conversacional, capaz de interpretar linguagem natural, categorizar transações automaticamente e sugerir hábitos financeiros saudáveis.
 <br>
 <br>
 
