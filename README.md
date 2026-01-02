@@ -86,7 +86,6 @@ Design Universal – princípios de acessibilidade aplicados desde o protótipo.
 
 
 📌 Próximos Passos
-Expandir interações gratuitas para testes mais longos.
 
 Implementar integração com bancos e cartões.
 
