@@ -13,7 +13,7 @@ A proposta é criar um aplicativo de organização financeira pessoal baseado em
 O FinançaFácil é um aplicativo de finanças pessoais que utiliza conversa natural para ajudar usuários a registrar gastos, definir metas e receber recomendações inteligentes.
 A ideia é eliminar a complexidade de planilhas e formulários, oferecendo uma experiência intuitiva e adaptada a diferentes perfis de usuários. <br>
 
-##❗ Problema a Resolver <br>
+## ❗Problema a Resolver <br>
 -Muitos usuários abandonam apps financeiros por serem complicados e pouco personalizados.
 <br>
 -A entrada manual de dados é trabalhosa e desmotivadora.
@@ -70,7 +70,7 @@ O app foi pensado para ser inclusivo e acessível:
 -Experiência consistente para o maior número possível de pessoas.
 <br>
 <br>
-## 🚀 MVP (Entregável da IA)
+## 🚀 MVP (Entregável da IA)  <br>  <br> 
 -Principais telas: chat, metas, relatórios. <br>
 -Recursos técnicos: NLP (Processamento de Linguagem Natural), categorização automática, motor de recomendações. <br>
 -Validação inicial: testes com usuários reais para ajustes rápidos. <br>
@@ -78,13 +78,13 @@ O app foi pensado para ser inclusivo e acessível:
 -Aplicação de Design Universal: desde o protótipo.
 <br>
 <br>
-📷 Protótipos
+📷 Protótipos  <br> 
 <img width="1335" height="852" alt="Tela 1" src="https://github.com/user-attachments/assets/19f77855-63e2-464b-806e-80fb13d8b850" />
 <img width="1339" height="857" alt="Tela 2" src="https://github.com/user-attachments/assets/c0540743-cd92-47ef-aa74-305bab4248ea" />
 <img width="1339" height="872" alt="Tela 3" src="https://github.com/user-attachments/assets/480e9d79-db63-4e6d-b161-bff3a3d520ab" />
 <br>
 <br>
-## 📊 Resumo do App – FinançaFácil
+## 📊 Resumo do App – FinançaFácil <br> 
 <br>
 ## 🔑 Principais Funcionalidades <br>
 -Acompanhamento visual das metas (progresso em porcentagem, valores acumulados e restantes). <br>
@@ -94,11 +94,11 @@ O app foi pensado para ser inclusivo e acessível:
 -Interatividade: chat integrado e botão para adicionar novas metas.
 <br>
 <br>
-🎯 Objetivo
+🎯 Objetivo <br>  <br> 
 Tornar o planejamento financeiro simples e acessível, permitindo que o usuário tenha clareza sobre seus objetivos e disciplina para alcançá-los.
 <br>
 <br>
-## 📌 Reflexões do Projeto
+## 📌 Reflexões do Projeto  <br>  <br> 
 
 ## ✅ O que funcionou bem <br>
 -O refinamento prévio do PRD feito com o Copilot foi extremamente útil, já que os créditos do Lovable se esgotaram em apenas três interações.
@@ -112,13 +112,14 @@ Tornar o planejamento financeiro simples e acessível, permitindo que o usuário
 
 <br>
 <br>
-<br>
+
 Copilot Web – refinamento do PRD e suporte à escrita. <br>
 <br>
 NLP (Processamento de Linguagem Natural) – interpretação de entradas em linguagem natural. <br>
 <br>
 Design Universal – princípios de acessibilidade aplicados desde o protótipo. <br>
 
+<br>
 <br>
 
 📌 Próximos Passos
