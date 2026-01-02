@@ -29,37 +29,37 @@ Um assistente financeiro conversacional, capaz de interpretar linguagem natural,
 <br>
 
 ## 👥 Público-Alvo
--Pessoas que desejam organizar suas finanças sem complicações.
--Iniciantes sem experiência com aplicativos financeiros tradicionais.
+-Pessoas que desejam organizar suas finanças sem complicações. <br>
+-Iniciantes sem experiência com aplicativos financeiros tradicionais.<br>
 -Usuários diversos, incluindo aqueles com necessidades específicas de acessibilidade.
 <br>
 <br>
 
 ## ⚙️ Funcionalidades-Chave
--Registro de gastos via chat – exemplo: “gastei R$ 30 no mercado”.
--Classificação automática de transações – categorização inteligente dos gastos.
--Metas financeiras – criação e acompanhamento de objetivos (ex.: “economizar R$ 500 até o fim do mês”).
--Agente Financeiro inteligente – recomendações personalizadas de economia e hábitos.
--Relatórios visuais – gráficos e dashboards simples e adaptados ao estilo do usuário.
--Acessibilidade garantida – interface clara, suporte a leitores de tela, comandos por voz e feedback multimodal.
+-Registro de gastos via chat – exemplo: “gastei R$ 30 no mercado”. <br>
+-Classificação automática de transações – categorização inteligente dos gastos. <br>
+-Metas financeiras – criação e acompanhamento de objetivos (ex.: “economizar R$ 500 até o fim do mês”). <br>
+-Agente Financeiro inteligente – recomendações personalizadas de economia e hábitos. <br>
+-Relatórios visuais – gráficos e dashboards simples e adaptados ao estilo do usuário. <br>
+-Acessibilidade garantida – interface clara, suporte a leitores de tela, comandos por voz e feedback multimodal. <br>
 
 <br>
 <br>
-## ♿ Princípios de Design Universal
+## ♿ Princípios de Design Universal <br>
 O app foi pensado para ser inclusivo e acessível:
 
--Interface clara e legível.
--Navegação simples e sem sobrecarga.
--Compatibilidade com leitores de tela e comandos por voz.
--Feedbacks visuais e auditivos.
+-Interface clara e legível. <br>
+-Navegação simples e sem sobrecarga. <br>
+-Compatibilidade com leitores de tela e comandos por voz. <br>
+-Feedbacks visuais e auditivos. <br>
 -Experiência consistente para o maior número possível de pessoas.
 <br>
 <br>
 ## 🚀 MVP (Entregável da IA)
--Principais telas: chat, metas, relatórios.
--Recursos técnicos: NLP (Processamento de Linguagem Natural), categorização automática, motor de recomendações.
--Validação inicial: testes com usuários reais para ajustes rápidos.
--Tom educativo e acessível: linguagem clara em português.
+-Principais telas: chat, metas, relatórios. <br>
+-Recursos técnicos: NLP (Processamento de Linguagem Natural), categorização automática, motor de recomendações. <br>
+-Validação inicial: testes com usuários reais para ajustes rápidos. <br>
+-Tom educativo e acessível: linguagem clara em português. <br>
 -Aplicação de Design Universal: desde o protótipo.
 <br>
 <br>
@@ -71,11 +71,11 @@ O app foi pensado para ser inclusivo e acessível:
 <br>
 ## 📊 Resumo do App – FinançaFácil
 <br>
-## 🔑 Principais Funcionalidades
--Acompanhamento visual das metas (progresso em porcentagem, valores acumulados e restantes).
--Categorias organizadas (ex.: Poupança, Lazer).
--Controle de prazos (alerta de metas vencidas).
--Resumo geral da situação financeira.
+## 🔑 Principais Funcionalidades <br>
+-Acompanhamento visual das metas (progresso em porcentagem, valores acumulados e restantes). <br>
+-Categorias organizadas (ex.: Poupança, Lazer). <br>
+-Controle de prazos (alerta de metas vencidas). <br>
+-Resumo geral da situação financeira. <br>
 -Interatividade: chat integrado e botão para adicionar novas metas.
 <br>
 <br>
@@ -85,34 +85,34 @@ Tornar o planejamento financeiro simples e acessível, permitindo que o usuário
 <br>
 ## 📌 Reflexões do Projeto
 
-## ✅ O que funcionou bem
+## ✅ O que funcionou bem <br>
 -O refinamento prévio do PRD feito com o Copilot foi extremamente útil, já que os créditos do Lovable se esgotaram em apenas três interações.
 <br>
 <br>
-## ⚠️ O que não saiu como esperado
+## ⚠️ O que não saiu como esperado <br>
 -Eu imaginava poder ter mais interações gratuitas com o Lovable, mas mesmo as poucas disponíveis já trouxeram bastante aprendizado sobre Vibe Coding.
 
-## 💡 O que aprendi sobre conversar com IAs
+## 💡 O que aprendi sobre conversar com IAs <br>
 -Percebi que é muito parecido com conversar com uma pessoa: quanto mais detalhes e clareza você oferece, melhor é a qualidade da interação.
 
 <br>
 <br>
 <br>
-Copilot Web – refinamento do PRD e suporte à escrita.
+Copilot Web – refinamento do PRD e suporte à escrita. <br>
 <br>
-NLP (Processamento de Linguagem Natural) – interpretação de entradas em linguagem natural.
+NLP (Processamento de Linguagem Natural) – interpretação de entradas em linguagem natural. <br>
 <br>
-Design Universal – princípios de acessibilidade aplicados desde o protótipo.
+Design Universal – princípios de acessibilidade aplicados desde o protótipo. <br>
 
 <br>
 
 📌 Próximos Passos
 
-Implementar integração com bancos e cartões.
+Implementar integração com bancos e cartões. <br>
 
-Melhorar relatórios visuais com dashboards interativos.
+Melhorar relatórios visuais com dashboards interativos.  <br>
 
-Ampliar recursos de acessibilidade (ex.: comandos por voz mais avançados).
+Ampliar recursos de acessibilidade (ex.: comandos por voz mais avançados). <br>
 
 
 
