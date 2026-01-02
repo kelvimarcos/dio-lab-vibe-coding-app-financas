@@ -56,24 +56,28 @@ Plano inicial contendo:
 
 
 
-##Reumo do app
+##Resumo do app
 
 
-O FinançaFácil é um aplicativo de gestão financeira pessoal que ajuda usuários a definir, acompanhar e alcançar metas de poupança.
+O FinançaFácil é um aplicativo de gestão financeira pessoal
+## Principais funcionalidades
 
-🔑 Principais funcionalidades
-Metas financeiras personalizadas: o usuário pode criar objetivos como “Reserva de emergência” ou “Viagem de férias”.
+-Acompanhamento visual: cada meta mostra progresso em porcentagem, valores já acumulados e quanto ainda falta.
+-Categorias organizadas: metas podem ser classificadas em áreas como Poupança ou Lazer.
+-Controle de prazos: o app indica quando o prazo de uma meta foi vencido, ajudando no planejamento.
+-Resumo geral: além das metas, há uma aba de resumo para visualizar a situação financeira completa.
+-Interatividade: inclui opções como chat integrado e botão para adicionar novas metas rapidamente.
 
-Acompanhamento visual: cada meta mostra progresso em porcentagem, valores já acumulados e quanto ainda falta.
 
-Categorias organizadas: metas podem ser classificadas em áreas como Poupança ou Lazer.
+## Objetivo do app
+-O FinançaFácil busca tornar o planejamento financeiro simples e acessível, permitindo que o usuário tenha clareza sobre seus objetivos e disciplina para alcançá-los.
 
-Controle de prazos: o app indica quando o prazo de uma meta foi vencido, ajudando no planejamento.
 
-Resumo geral: além das metas, há uma aba de resumo para visualizar a situação financeira completa.
+## O que funcionou bem?
+-O refinamento prévio do PRD feito com o Copilot foi extremamente útil, já que os créditos do Lovable se esgotaram em apenas três interações.
 
-Interatividade: inclui opções como chat integrado e botão para adicionar novas metas rapidamente.
+## O que não saiu como esperado?
+-Eu imaginava poder ter mais interações gratuitas com o Lovable, mas mesmo as poucas disponíveis já trouxeram bastante aprendizado sobre Vibe Coding.
 
-🎯 Objetivo do app
-O FinançaFácil busca tornar o planejamento financeiro simples e acessível, permitindo que o usuário tenha clareza sobre seus objetivos e disciplina para alcançá-los.
-
+## O que aprendi sobre conversar com IAs?
+-Percebi que é muito parecido com conversar com uma pessoa: quanto mais detalhes e clareza você oferece, melhor é a qualidade da interação.
